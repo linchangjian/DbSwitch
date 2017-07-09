@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/aniu/Downloads/dbSwitch/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/aniu/.android/build-cache/7338506517fd88c7573a4a362fa83a93820db300/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
